@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">My Android App</string>
+    <string name="label_button_reset">reset</string>
+    <string name="toast_message">Hello World!</string>
+    <string name="label_button_toast">toast</string>
+    <string name="label_button_add">add</string>
+    <string name="count_initial">0</string>
 </resources>
